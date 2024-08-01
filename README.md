@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Meu nome é *Stella Maciel*
+Meu nome é **Stella Maciel**
 
 • Estou estudando na Alura;
 
@@ -8,7 +8,7 @@ Meu nome é *Stella Maciel*
 
 • Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
 
-*Você pode entrar em contato comigo* 📫
+**Você pode entrar em contato comigo** 📫
 
 stellamaciel867@gmail.com 
 
